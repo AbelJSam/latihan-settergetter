@@ -10,6 +10,9 @@ void main() {
     // baju1.cetakAtribut();
     baju1.inputAtribut('biru', 'Baju XYZ', 300, 28);
     baju1.cetakAtribut();
+    baju1.batasSakti();
+    
     baju1.inputAtribut('Gray', 'Celana ABC', 450, 29);
     baju1.cetakAtribut();
+    baju1.batasSakti();
 }
